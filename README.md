@@ -1,2 +1,0 @@
-# Estrategia25AlexDePablo
- 
