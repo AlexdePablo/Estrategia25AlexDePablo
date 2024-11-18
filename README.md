@@ -1,4 +1,5 @@
 Estrategia Alex
+  
   Basicos:
   
     -[x] Elección de personajes.
